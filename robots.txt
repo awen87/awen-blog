@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://awen87.github.io/awen-blog/sitemap.xml
+Sitemap: https://awen87.github.io/awen-blog/awen-blog/sitemap.xml
