@@ -10,7 +10,7 @@ export default hopeTheme({
 
   author: {
     name: "阿文",
-    url: "https://mister-hope.com",
+    url: "https://awen87.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
