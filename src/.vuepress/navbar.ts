@@ -4,9 +4,9 @@ export default navbar([
   "/",
   "/front-end-series/",
   {
-    text: "前端框架",
-    icon: "pen-to-square",
-    prefix: "/framework/",
+    text: "源码阅读",
+    icon: "iconfont icon-read",
+    prefix: "/source-code/",
     children: [
       {
         text: "React",
@@ -40,4 +40,8 @@ export default navbar([
       },
     ],
   },
+    "/beyond-frontend",
+    "/poetry",
+    "/others",
+  "introduction",
 ]);

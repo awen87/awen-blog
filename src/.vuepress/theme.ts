@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://github.com/awen87/awen-blog",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  iconAssets: ["fontawesome-with-brands", "iconfont"],
 
   logo: "/logo.svg",
 
