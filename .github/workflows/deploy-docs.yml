@@ -46,4 +46,4 @@ jobs:
           branch: gh-pages
           folder: src/.vuepress/dist
           token: ${{ secrets.TOKEN }}
-          repository-name: awen87/awen87.github.io
+          repository-name: awen87/awen-blog
