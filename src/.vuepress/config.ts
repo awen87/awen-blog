@@ -9,7 +9,4 @@ export default defineUserConfig({
   description: "Sharing some front end knowledge",
 
   theme,
-
-  // Enable it with pwa
-  // shouldPrefetch: false,
 });
